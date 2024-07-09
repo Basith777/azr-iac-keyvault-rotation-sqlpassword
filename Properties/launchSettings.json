@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "azr_iac_keyvault_rotation_sqlpassword": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7232",
+      "launchBrowser": false
+    }
+  }
+}
